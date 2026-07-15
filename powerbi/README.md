@@ -6,7 +6,7 @@ never open a notebook.
 
 ## Executive View
 
-![Executive View](img/01_executive_view.png)
+![Executive View](img/01_Executive_view.png)
 
 Portfolio health at a glance — 1,189 defaults across $107.59M of exposure, a 19.95%
 default rate, average DTI of 33.16. Loan-size distribution, job mix, and the split of
@@ -17,7 +17,7 @@ knowing what a random forest is.
 
 ## Risk Drivers
 
-![Risk Drivers](img/02_risk_drivers.png)
+![Risk Drivers](img/02_Risk_drivers.png)
 
 Default rate cut five ways: job type, debt-to-income, delinquencies, derogatory marks,
 and credit history age. Where the previous page describes, this one directs — it shows
@@ -30,7 +30,7 @@ everything else — risk falls as history lengthens, from 28% under 10 years to 
 
 ## Model Performance
 
-![Model Performance](img/03_model_performance.png)
+![Model Performance](img/03_Model_performance.png)
 
 Metric cards, the five-model comparison, the confusion matrix, and predicted risk score
 against actual outcome.
@@ -44,7 +44,7 @@ win. A chart that hides why the best-looking model was rejected is worse than no
 
 ## Feature Importance & Recommendations
 
-![Feature Importance](img/04_feature_importance.png)
+![Feature Importance](img/04_Feature_importance.png)
 
 SHAP feature ranking, paired with four recommendations that each cite the chart value
 they rest on.
@@ -80,9 +80,6 @@ Amber marks default and risk, grey marks healthy, held consistently across all f
 pages. Every page carries a navigator row and a reset-filters button.
 
 ## Files
-
-- `Loan_default_Power_BI.pbix` — opens in Power BI Desktop
-- `img/` — page exports (GitHub can't preview `.pbix`, so the images are the report)
 
 - `Loan_default_Power_BI.pbix` — opens in Power BI Desktop
 - `img/` — page exports (GitHub can't preview `.pbix`, so the images are the report)
