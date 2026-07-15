@@ -42,4 +42,3 @@ every single-field rule while being obviously wrong.
 ## Files
 
 - `hmeq_control_workbook.xlsx` — the workbook
-- `hmeq_project_summary.pdf` — one-page summary, framed for a credit operations audience
