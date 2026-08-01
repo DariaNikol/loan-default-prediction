@@ -57,7 +57,7 @@ The project ran in four iterative phases: (1) data preparation and baseline
 modeling, (2) the SQL reconciliation layer and Power BI reporting, (3) the
 v1→v2 model iteration driven by the SQL finding, and (4) documentation and
 governance. The v2 iteration was an inserted, recorded change rather than part
-of the original plan — the honest re-plan the Project Plan describes.
+of the original plan.
 
 ## Tech stack
 
